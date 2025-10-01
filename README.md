@@ -4,6 +4,8 @@ Disclaimer: This is a collection started with best intentions. I am not responsi
 
 - [FathomNet](https://database.fathomnet.org/fathomnet/#/)
   - [an open-source image database](https://database.fathomnet.org/fathomnet/#/about)
+- [Community Fish Detection Dataset](https://lila.science/datasets/community-fish-detection-dataset/)
+  - tbd
 - [The Brackish Dataset](https://www.kaggle.com/datasets/aalborguniversity/brackish-dataset)
   - 89 videos with bounding boxes for fish in 6 coarse categories
   - 14674 samples (?)
